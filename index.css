@@ -36,6 +36,11 @@
   margin-right: 10px;
 }
 
+.nav-ul li a {
+  text-decoration: none;
+  color: black;
+}
+
 .bg-our {
   position: relative;
 }
