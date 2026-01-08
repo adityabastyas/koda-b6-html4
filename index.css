@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  padding: 20px 40px;
+  text-align: center;
+}
+
+.logo,
+.nav,
+.nav-ul > li,
+.nav-image {
+  display: inline-block;
+}
+
+.nav .nav-ul {
+  margin: 0 200px;
+}
