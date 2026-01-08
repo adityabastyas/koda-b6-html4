@@ -21,3 +21,18 @@
 .nav .nav-ul {
   margin: 0 200px;
 }
+
+.bg-our {
+  position: relative;
+}
+
+.what {
+  position: absolute;
+  top: 30%;
+  left: 40px;
+  color: white;
+}
+
+.what h2 {
+  font-size: small;
+}
