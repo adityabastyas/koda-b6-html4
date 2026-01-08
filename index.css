@@ -36,3 +36,49 @@
 .what h2 {
   font-size: small;
 }
+.our-services {
+  background: white;
+  padding: 80px 200px;
+  top: -100px;
+  margin: 0 100px;
+  position: relative;
+  font-size: 0;
+}
+
+.os-left {
+  display: inline-block;
+  width: 40%;
+  text-align: left;
+  margin-right: 10%;
+  font-size: 16px;
+}
+
+.os-left h3 {
+  color: red;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  border-left: 3px solid red;
+}
+
+.os-left h2 {
+  font-size: 42px;
+  color: black;
+  font-weight: 700;
+}
+
+.os-right {
+  position: absolute;
+  left: 52%;
+  top: 80px;
+  width: 45%;
+  text-align: left;
+  font-size: 16px;
+}
+
+.os-right p {
+  color: gray;
+  margin-bottom: 25px;
+  font-size: 15px;
+}
