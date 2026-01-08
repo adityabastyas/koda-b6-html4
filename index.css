@@ -256,3 +256,14 @@
 .footer .nav-footer a {
   margin-left: 10px;
 }
+
+section .fixed {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+
+.fixed img {
+  width: 50px;
+  height: 50px;
+}
